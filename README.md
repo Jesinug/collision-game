@@ -27,3 +27,5 @@ Link url
 URls for the project repo and deploy Link Repo Link Deploy
 
 ##Slides
+
+URls for the project presentation (slides) Link Slides.com
